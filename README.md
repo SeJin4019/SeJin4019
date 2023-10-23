@@ -1,7 +1,7 @@
 # 울산대학교 4학년 IT융합 김세진 👋
 <br>
 
-## Back-End 개발자를 꿈꾸며 공부합니다 🌱
+### Back-End 개발자를 꿈꾸며 공부합니다 🌱
 
 <!--
 **SeJin4019/SeJin4019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
