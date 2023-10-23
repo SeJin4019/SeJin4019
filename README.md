@@ -3,6 +3,7 @@
 # 울산대학교 4학년 IT융합 김세진 👋
 <br>
 
+<div align="center">
 ⚡GitHub Stats⚡
 <br>
 
@@ -15,6 +16,8 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeJin4019&layout=compact&theme=dark)
+
+</div>
 
 <!--
 **SeJin4019/SeJin4019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
