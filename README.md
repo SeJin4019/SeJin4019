@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello!)
 
+<div align="center">
 # 울산대학교 4학년 IT융합 김세진 👋
+</div>
 <br>
 
 <div align="center">
