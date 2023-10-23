@@ -7,7 +7,7 @@
 
 <br>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejin4019&show_icons=true&theme=dark)
+![Sejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejin4019&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeJin4019&layout=compact&theme=dark)
 
 <!--
