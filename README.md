@@ -2,10 +2,7 @@
 
 <div align="center">
 # 울산대학교 4학년 IT융합 김세진 👋
-</div>
-<br>
 
-<div align="center">
 ⚡GitHub Stats⚡
 </div>
 <br>
