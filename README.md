@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Study!)
   
 # 울산대학교 4학년 IT융합 김세진 👋
 
